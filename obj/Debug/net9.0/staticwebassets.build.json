@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1pTOiVG6ihQnOrF4gTLe7AWUmsNErJ7wZYc+TjUVc+o=",
+  "Source": "Applications",
+  "BasePath": "_content/Applications",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

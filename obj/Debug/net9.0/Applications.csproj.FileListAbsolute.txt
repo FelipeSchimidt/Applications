@@ -26,3 +26,4 @@ C:\Users\Felipe\sources\Applications\obj\Debug\net9.0\refint\Applications.dll
 C:\Users\Felipe\sources\Applications\obj\Debug\net9.0\Applications.pdb
 C:\Users\Felipe\sources\Applications\obj\Debug\net9.0\Applications.genruntimeconfig.cache
 C:\Users\Felipe\sources\Applications\obj\Debug\net9.0\ref\Applications.dll
+C:\Users\Felipe\sources\Applications\obj\Debug\net9.0\Applications.sourcelink.json

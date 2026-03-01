@@ -1,11 +1,11 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v9.0",
+    "name": ".NETCoreApp,Version=v10.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v9.0": {
+    ".NETCoreApp,Version=v10.0": {
       "Applications/1.0.0": {
         "dependencies": {
           "NSwag.AspNetCore": "14.6.3"
@@ -95,7 +95,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "lib/net9.0/NSwag.AspNetCore.dll": {
+          "lib/net10.0/NSwag.AspNetCore.dll": {
             "assemblyVersion": "14.6.3.0",
             "fileVersion": "14.6.3.0"
           }
@@ -153,7 +153,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "lib/net9.0/NSwag.Generation.AspNetCore.dll": {
+          "lib/net10.0/NSwag.Generation.AspNetCore.dll": {
             "assemblyVersion": "14.6.3.0",
             "fileVersion": "14.6.3.0"
           }

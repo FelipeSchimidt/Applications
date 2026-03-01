@@ -1,2 +1,4 @@
 /Applications/bin
 /Applications/obj
+**/obj
+**/bin

@@ -8,6 +8,6 @@ if (app.Environment.IsDevelopment())
         //options.DocumentPath
     });
 }
-app.MapGet("/", () => "Hello World!");
+app.MapGet("/", () => "Hello New Worlds");
 
 app.Run();
